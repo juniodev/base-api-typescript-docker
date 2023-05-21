@@ -1,0 +1,14 @@
+node_modules/
+coverage/
+npm-debug.log
+yarn-error.log
+
+dist/
+tsconfig.tsbuildinfo
+
+.vscode/
+.idea/
+
+out/
+*.log
+.env
