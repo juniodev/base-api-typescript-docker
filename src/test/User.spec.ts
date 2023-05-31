@@ -1,5 +1,4 @@
-import UserSchema from "@schemas/UserSchema"
-
+import UserSchema from "@/schemas/UserSchema"
 
 test('verify userschema', () => {
 

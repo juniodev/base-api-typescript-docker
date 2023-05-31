@@ -21,12 +21,7 @@
     "forceConsistentCasingInFileNames": true,
     "baseUrl": ".",
     "paths": {
-      "@controllers/*": [
-        "./src/controllers/*"
-      ],
-      "@schemas/*": [
-        "./src/schemas/*"
-      ]
+      "@/*": ["./src/*"]
     },
     "strict": true
   },

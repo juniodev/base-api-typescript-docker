@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "main": "index.js",
   "repository": "https://github.com/juniodeveloper/base-api-typescript-docker.git",
-  "author": "juniodeveloper <junio@juniodev.com>",
+  "author": "juniodev <junio@juniodev.com>",
   "license": "MIT",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules src/server.ts",
